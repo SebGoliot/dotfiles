@@ -1,3 +1,4 @@
 # dotfiles
 
-My dotfiles, need a rework tho.
+My dotfiles.  
+I need to make a proper bootstrap for those.
