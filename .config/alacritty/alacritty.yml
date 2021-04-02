@@ -26,3 +26,29 @@ colors:
     magenta: '0x6c71c4'
     cyan:    '0x93a1a1'
     white:   '0xfdf6e3'
+
+
+window:
+  padding:
+    x: 4
+    y: 4
+  dynamic_padding: true
+
+font:
+  normal:
+    family: iosevka
+    style: Regular
+
+  bold:
+    family: iosevka
+    style: Bold
+
+  italic:
+    family: iosevka
+    style: Italic
+
+  bold_italic:
+    family: iosevka
+    style: Bold Italic
+
+  size: 12
