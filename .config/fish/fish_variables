@@ -1,8 +1,11 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_lsl:ls\x20\x2dahl
+SETUVAR _fish_abbr_mvenv:python\x20\x2dm\x20venv\x20venv
 SETUVAR _fish_abbr_pinst:pip\x20install
 SETUVAR _fish_abbr_pinstr:pip\x20install\x20\x2dr\x20requirements\x2etxt
+SETUVAR _fish_abbr_svenv:source\x20\x2e/venv/bin/activate\x2efish
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7
