@@ -36,19 +36,19 @@ window:
 
 font:
   normal:
-    family: iosevka
+    family: iosevka ubuntu mono
     style: Regular
 
   bold:
-    family: iosevka
+    family: iosevka ubuntu mono
     style: Bold
 
   italic:
-    family: iosevka
+    family: iosevka ubuntu mono
     style: Italic
 
   bold_italic:
-    family: iosevka
+    family: iosevka ubuntu mono
     style: Bold Italic
 
   size: 12
